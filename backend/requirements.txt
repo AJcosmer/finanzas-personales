@@ -1,2 +1,6 @@
 Flask
-Flask-MySQLdb
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Cors
+PyMySQL
+Werkzeug
